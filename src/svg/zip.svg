@@ -1,0 +1,16 @@
+<svg viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-582.000000, -1909.000000)">
+            <g transform="translate(582.975000, 1909.764423)">
+                <path d="M5,0 L45,0 C47.7614237,0 50,2.23857625 50,5 L50,45 C50,47.7614237 47.7614237,50 45,50 L5,50 C2.23857625,50 0,47.7614237 0,45 L0,5 C0,2.23857625 2.23857625,0 5,0 Z" fill="#2688E8"></path>
+                <rect fill="#FFFFFF" x="25" y="10" width="4" height="3"></rect>
+                <rect fill="#FFFFFF" x="21" y="13" width="4" height="3"></rect>
+                <rect fill="#FFFFFF" x="25" y="16" width="4" height="3"></rect>
+                <rect fill="#FFFFFF" x="21" y="19" width="4" height="3"></rect>
+                <rect fill="#FFFFFF" x="25" y="22" width="4" height="3"></rect>
+                <rect fill="#FFFFFF" x="21" y="25" width="4" height="3"></rect>
+                <path d="M29,26 L29,38 C29,39.1045695 28.1045695,40 27,40 L23,40 C21.8954305,40 21,39.1045695 21,38 L21,29 L25,29 L25,26 L29,26 Z M27,34 L23,34 L23,37 L27,37 L27,34 Z" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
