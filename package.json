@@ -1,14 +1,18 @@
 {
-  "name": "@md-ui/icons",
+  "name": "@tanxb/md-ui-icons",
   "version": "1.0.0",
   "description": "Vue components of md-ui Icons collection.",
-  "author": "",
+  "author": "tanxb",
   "keywords": [
     "icon",
     "svg",
     "vue",
     "md-ui"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeHeartbeat/md-ui-icons.git"
+  },
   "type": "module",
   "sideEffects": false,
   "files": [

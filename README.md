@@ -2,6 +2,28 @@
 
 Vue SVG 图标组件库，支持通过 Node 脚本自动化生成图标组件及对应的类型声明文件。
 
+## 用法
+
+1. 先安装到本地项目：
+
+```shell
+npm i @tanxb/md-ui-icons
+```
+
+2. 在项目中按需导入使用，例如：
+
+```vue
+<script lang="ts" setup>
+import { Annex } from "@tanxb/md-ui-icons";
+</script>
+
+<template>
+  <div>
+    <Annex />
+  </div>
+</template>
+```
+
 ## 特性
 
 - **自动化生成**：运行脚本即可根据 `src/svg` 目录下的 SVG 文件自动生成 Vue 组件、入口文件及类型声明
